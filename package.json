@@ -1,0 +1,16 @@
+{
+  "name": "keepbreak",
+  "version": "0.1.0",
+  "description": "Don't resolve your promises. Keep them.",
+  "main": "index.js",
+  "repository": "git@github.com:camjackson/keepbreak",
+  "author": "Cam Jackson",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest --watch test.js"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
